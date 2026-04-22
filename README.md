@@ -1,5 +1,10 @@
 # Customer Churn Analysis — Telecom Industry
 
+## View the Notebook
+> GitHub's notebook renderer can be unreliable. Use the links below for the best experience:
+
+[![Open in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/ShantanuDeshmukh21/telecom-customer-churn-analysis/blob/master/churn_analysis.ipynb)
+
 ## Overview
 End-to-end Python analysis of 7,000 telecom customers to identify churn drivers, segment high-risk customers, and deliver actionable retention recommendations. Combines statistical testing with machine learning feature importance.
 
